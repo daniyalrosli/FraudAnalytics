@@ -1,4 +1,4 @@
-Bank Transaction Dataset for Fraud Detection
+Bank Transaction Dataset for Fraud Detection (30%)
 
 Project Overview :
 
